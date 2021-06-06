@@ -15,3 +15,8 @@ Run each cell in main.ipynb file.
 The image below is the generated MNIST data with latent code fixed for each row.
 
 ![result](result.png)
+
+
+Train loss progression to 50 epochs with 16 batch
+
+![train_loss](train_loss.png)
